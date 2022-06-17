@@ -1,0 +1,68 @@
+segment_sources:
+  IB1BFB9CA:
+    type: origin_type
+    relation: translation
+    language: en
+  IA0684D69:
+    type: origin_type
+    relation: translation
+    language: de
+  I031BB3A9:
+    type: origin_type
+    relation: translation
+    language: es
+  IF94184C3:
+    type: origin_type
+    relation: translation
+    language: fr
+  IAD33D330:
+    type: origin_type
+    relation: translation
+    language: zh
+  I50DEF0B3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  863b4ee278f643c481f9a02ad5be5003:
+    IB1BFB9CA: d86cf16c13e34976bf394484934824fa
+    IA0684D69: f7fa6a4ccee146ccaf4db15443f0235b
+    I031BB3A9: eae336bc62d04aada2217da40f107f72
+    IF94184C3: e2bdeb623ec74d7f9cf6777a39873e78
+    IAD33D330: d7680e600abc4f9192fbe9a143ed1659
+    I50DEF0B3: 82d097eb06b04f1bbf8ad5c12d9052ba
+  3c5df60a6e754fc8ab360a57280a2b45:
+    IB1BFB9CA: 077f7563436547d7afdd1699eee972e2
+    IA0684D69: 2a9cce4ad4a44a31a8f56295d228e9c8
+    I031BB3A9: 2ac45606cd45495c871bcd2813947328
+    IF94184C3: 4bb27934d67441b98212bf3eb197161a
+    IAD33D330: 1912981ac2124ddaa65dc107e3549f48
+    I50DEF0B3: 459c8a89cda4404fb01bbc73b76ca474
+  f7a2ae1318a04d0990524aaa5a60d56f:
+    IB1BFB9CA: 683480761dca492d9f10fe426bb6997a
+    IA0684D69: 0d051f0034124e87a916bd83b608f88d
+    I031BB3A9: be43e512510547099da132b79cfbe3d5
+    IF94184C3: ab1e5285323c4c2a8a7e1ca59a4e6d90
+    IAD33D330: a2b950c717f8491da6257a35b88779d6
+    I50DEF0B3: 659c63567adb448694c6e0d70399e0ef
+  d12878ab4a2845118a1fe70ab1fa2201:
+    IB1BFB9CA: 9a800e8be42d4410a3f1d6ccd34334c8
+    IA0684D69: e8db91678019405da584c9d541481d1e
+    I031BB3A9: 9c2191d58f1a4d1597cdf53008e23cf9
+    IF94184C3: e32e23c81ab34ee98e8d0f59ed0c5d02
+    IAD33D330: 713d1ee82b9e4cc6a27a10f644c36165
+    I50DEF0B3: 21a7865463ce4b869f657a07aece38ce
+  6e3d2497104e4a5e882931f755e49df1:
+    IB1BFB9CA: 233de9384b2c4418a2f7fddbbe53ecbe
+    IA0684D69: b74a245e04984decb6fb11f5c47fbfa8
+    I031BB3A9: 2d9928d584704fc686428ad37fd37c30
+    IF94184C3: e1d98282c2fb43849ab08b3fa5a768c9
+    IAD33D330: e2a2fadb1be842678abfe8067db5c664
+    I50DEF0B3: 079cfcd973cc4330beaf7667af8c7877
+  64fe623e2c1b4eca8211868394b6c946:
+    IB1BFB9CA: 8ca411215dac4b25bc1acf1c804f512e
+    IA0684D69: 3a290998c5344767b0e13a07e15807a3
+    I031BB3A9: 01a7a58b9d1e4306abc9b91334a6c601
+    IF94184C3: e087dd52c3b0411ebeaff388b70d465a
+    IAD33D330: 9c25536a88cc4e60821a5fa2768b5fdd
+    I50DEF0B3: 4218bf63dc6343908a7af7d20c05e6f6

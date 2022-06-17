@@ -1,0 +1,16 @@
+segment_sources:
+  IB1BFB9CA:
+    type: origin_type
+    relation: translation
+    language: en
+  I50DEF0B3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4fb07f42295d4fefae7a911a0d9ed621:
+    IB1BFB9CA: 2c13eb2c98eb49a08551f7db74077fd7
+    I50DEF0B3: 191b20620e914139ba60282bd52e4704
+  6bd08ed30786434caff79d757a303c0e:
+    IB1BFB9CA: 76c8d46b07cc4fa2ae5076f44dda60f3
+    I50DEF0B3: 62400d012bcd42e59e33ca0927a5d060
